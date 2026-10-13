@@ -1,0 +1,2 @@
+opt_iter,E,beta,C_value,V_value,target_vol_frac,filter_radius,penalty,u_max,sigma_max,N_cell
+99,3000,2,2.734310e+01,0.700000,0.7,10,3.0,1.240357,12.839664,50690

@@ -1,0 +1,2 @@
+opt_iter,E,beta,C_value,V_value,target_vol_frac,filter_radius,penalty, u_max
+299,3000,32,2.978207e+03,0.154732,0.15,10.0,3.0,285.830420

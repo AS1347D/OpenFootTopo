@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dolfinx stuff
+*.msh
+*.pvd
+*.pvtu
+*.vtu
+*.h5
+*.xdmf
+*.bin
+*.bp
+*.vtkhdf

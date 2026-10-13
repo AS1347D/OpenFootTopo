@@ -1,0 +1,1 @@
+ffmpeg -i anim.avi -filter:v "fps=20" anim.mp4 -y
